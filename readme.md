@@ -14,3 +14,6 @@ Exercises for the "What The Flexbox?!" video course. Videos available at <http:/
     - Alignment and Centering with align-items
     - Alignment and Centering with align-content
     - Alignment and Centering with align-self
+5. Flexbox-sizing
+6. Flex-grow-and-shrink
+7. Flex-wrapping-and-columns
