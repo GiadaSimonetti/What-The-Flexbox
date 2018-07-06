@@ -17,3 +17,6 @@ Exercises for the "What The Flexbox?!" video course. Videos available at <http:/
 5. Flexbox-sizing
 6. Flex-grow-and-shrink
 7. Flex-wrapping-and-columns
+8. AutoPrefixer
+9. Flexbox-nav
+10. Mobile-reordering
