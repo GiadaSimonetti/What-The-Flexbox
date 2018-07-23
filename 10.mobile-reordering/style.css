@@ -97,9 +97,46 @@ section, footer {
     flex-basis:100%;
   }
 
+  /*  flex container*/
   .wrapper {
     display: flex;
     flex-direction: column;
   }
+
+  /*  flex item */
+  .wrapper > * {
+    order: 9999;
+  }
+
+  .flex-nav {
+    order: 1;
+  }
+
+  .toggleNav {
+    display: block;
+  }
+
+  .flex-nav ul {
+    display: none;
+  }
+
+    .flex-nav ul.open {
+      display: flex;
+    }
+
+    /* Header */
+    .top {
+      order:2;
+    }
+
+    /* Details */
+    .details {
+      order:3;
+    }
+
+    /* Sign Up */
+    .signup {
+      order:4;
+    }
 
 }
