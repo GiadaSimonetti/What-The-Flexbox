@@ -24,3 +24,4 @@ Exercises for the "What The Flexbox?!" video course. Videos available at <http:/
 12. Pricing Grid
 13. Equal Height Elements
 14. Flex Form
+15. Flexbox App Layout
